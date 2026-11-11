@@ -60,6 +60,13 @@
     {
       "source": "224472459765",
       "kind": "threads",
+      "slot": 1,
+      "koreanTime": "2026-11-13T08:10:00+09:00",
+      "error": "Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed."
+    },
+    {
+      "source": "224472459765",
+      "kind": "threads",
       "slot": 2,
       "koreanTime": "2026-11-13T12:10:00+09:00",
       "error": "Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed."
