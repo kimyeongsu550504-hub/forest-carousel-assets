@@ -1,0 +1,157 @@
+{
+  "target": "2026-11-12",
+  "channels": {
+    "threads": {
+      "id": "6ac8203a6a5c39ccb658c15d",
+      "profile": "kys0409",
+      "service": "threads"
+    },
+    "instagram": {
+      "id": "6ac81f666a5c39ccb658bcb3",
+      "profile": "kys0409",
+      "service": "instagram"
+    }
+  },
+  "scheduled": [
+    {
+      "source": "224472967623",
+      "kind": "threads",
+      "slot": 1,
+      "id": "6af4ed64bc9f3773a1a4d55a",
+      "dueAt": "2026-11-12T23:10:00.000Z",
+      "koreanTime": "2026-11-13T08:10:00+09:00",
+      "channelService": "threads",
+      "assets": 0
+    },
+    {
+      "source": "224472967623",
+      "kind": "instagram",
+      "id": "6af4ed663d8c751bfdfb55f1",
+      "dueAt": "2026-11-13T11:30:00.000Z",
+      "koreanTime": "2026-11-13T20:30:00+09:00",
+      "channelService": "instagram",
+      "assets": 5
+    },
+    {
+      "source": "224472459765",
+      "kind": "instagram",
+      "id": "6af4ed68304f8985c46c1b00",
+      "dueAt": "2026-11-13T11:30:00.000Z",
+      "koreanTime": "2026-11-13T20:30:00+09:00",
+      "channelService": "instagram",
+      "assets": 5
+    }
+  ],
+  "failed": [
+    {
+      "source": "224472967623",
+      "kind": "threads",
+      "slot": 2,
+      "koreanTime": "2026-11-13T12:10:00+09:00",
+      "error": "Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed."
+    },
+    {
+      "source": "224472967623",
+      "kind": "threads",
+      "slot": 3,
+      "koreanTime": "2026-11-13T20:30:00+09:00",
+      "error": "Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed."
+    },
+    {
+      "source": "224472459765",
+      "kind": "threads",
+      "slot": 2,
+      "koreanTime": "2026-11-13T12:10:00+09:00",
+      "error": "Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed."
+    },
+    {
+      "source": "224472459765",
+      "kind": "threads",
+      "slot": 3,
+      "koreanTime": "2026-11-13T20:30:00+09:00",
+      "error": "Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed."
+    }
+  ],
+  "imageChecks": [
+    {
+      "path": "/home/ubuntu/forest_carousel/2026-11-12/224472967623/01.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "/home/ubuntu/forest_carousel/2026-11-12/224472967623/02.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "/home/ubuntu/forest_carousel/2026-11-12/224472967623/03.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "/home/ubuntu/forest_carousel/2026-11-12/224472967623/04.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "/home/ubuntu/forest_carousel/2026-11-12/224472967623/05.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "/home/ubuntu/forest_carousel/2026-11-12/224472459765/01.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "/home/ubuntu/forest_carousel/2026-11-12/224472459765/02.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "/home/ubuntu/forest_carousel/2026-11-12/224472459765/03.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "/home/ubuntu/forest_carousel/2026-11-12/224472459765/04.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "PNG"
+    },
+    {
+      "path": "/home/ubuntu/forest_carousel/2026-11-12/224472459765/05.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "PNG"
+    }
+  ]
+}
